@@ -3,4 +3,5 @@
 <p>
  <img  src="/Trustly-logo.png" width=4%">
 </p>
- #### Client Support Engineer at Trustly
+                                        
+*Client Support Engineer at Trustly*

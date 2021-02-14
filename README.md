@@ -2,6 +2,9 @@
 
 <p>
  <img  src="/Trustly-logo.png" width=4%">
+ <img  src="/PWMBlogo3.png" width=15%;
+       background-color: white>
+        
 </p>
                                         
 *Client Support Engineer at Trustly*

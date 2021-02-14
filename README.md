@@ -2,7 +2,7 @@
 
 <p>
  <img  src="/Trustly-logo.png" width=4%">
- <img  src="/PWMBlogo3.png" width=15%;
+ <img  src="/PWMBlogo3.png" width=12%;
        background-color: white>
         
 </p>

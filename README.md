@@ -8,6 +8,7 @@
 *Client Support Engineer at Trustly*
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JairNeto1)](https://git.io/streak-stats)
+![Jair Neto's github stats](https://github-readme-stats.vercel.app/api?username=JairNeto1&show_icons=true&theme=radical)
                            
 <h3 align="left">Social Medias</h3>
 <p align="left">
